@@ -13,7 +13,6 @@
 ## 💻 Project
 | **프로젝트명**                                                                   | **설명**                                                                                       | **기술 스택**                                                                              | **기간**                   |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------ |
-| [**사내 그룹웨어 프로젝트 (J2SM)**](https://github.com/greenlotte6/lotte2-community-app-project-team1)    | JWT 인증을 기반으로 한 사내 그룹웨어 시스템으로, 실시간 채팅, 일정 관리(캘린더), 게시판, 파일 드라이브, 할 일 관리(TodoList) 기능을 포함하여 구현 | Java, JPA, Spring Boot, React, MySQL, Redis, MongoDB, AWS EC2, Vercel                  | 2025.05.26 \~ 2025.06.30       |
 | [**롯데온 클론 프로젝트**](https://github.com/greenlotte6/lotte1-lotteon-project-team2)                   | Spring Boot 기반의 이커머스 클론 프로젝트로, 상품, 장바구니, 회원/관리자 기능을 구현하고, GitHub Actions 기반 CI/CD 자동 배포를 적용  | Java, JPA, Spring Boot, MySQL, Redis, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.04.11 \~ 2025.05.23 |
 
 
