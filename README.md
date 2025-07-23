@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요! 개발자를 꿈꾸는 최명기라고 합니다! 👋
 
 <!--
 **beermoon/beermoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
