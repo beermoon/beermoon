@@ -7,7 +7,7 @@
 - 경성대학교 - 컴퓨터공학과
 
 ## 기술
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,html,css,javascript&theme=light)](https://skillicons.dev)
 
 
 
