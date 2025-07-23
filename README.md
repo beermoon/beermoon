@@ -6,8 +6,8 @@
 - (롯데)기업맞춤형 프로젝트 기반 백엔드 자바, 스프링 웹 SW개발자 양성과정(그린컴퓨터 아카데미)
 - 경성대학교 - 컴퓨터공학과
 
-## 기술
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,html,css,javascript&theme=light)](https://skillicons.dev)
+## 💻 My Stack
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,html,css,javascript,aws,redis&theme=light)](https://skillicons.dev)
 
 
 
